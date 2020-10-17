@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    username: root
+    password: rootroot
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://47.102.205.163:3306/lierlin_oms
+
+server:
+  port: 8093
+
+mybatis-plus:
+  mapper-locations: classpath:/mapper/**/*.xml
+  global-config:
+    db-config:
+      id-type: auto
