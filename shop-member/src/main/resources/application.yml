@@ -4,6 +4,11 @@ spring:
     password: rootroot
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://47.102.205.163:3306/lierlin_ums
+  cloud:
+    nacos:
+      server-addr: 47.102.205.163:8848
+  application:
+    name: shop-member
 
 server:
   port: 8092

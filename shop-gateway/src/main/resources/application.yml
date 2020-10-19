@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 47.102.205.163:8848
+  application:
+    name: shop-gateway
+server:
+  port: 8095

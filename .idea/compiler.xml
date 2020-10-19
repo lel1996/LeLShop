@@ -11,6 +11,7 @@
         <module name="shop-ware" />
         <module name="renren-generator" />
         <module name="shop-coupon" />
+        <module name="shop-gateway" />
         <module name="shop-member" />
         <module name="renren-fast" />
         <module name="shop-order" />
@@ -23,6 +24,7 @@
       <module name="renren-generator" target="1.8" />
       <module name="shop-common" target="1.8" />
       <module name="shop-coupon" target="1.8" />
+      <module name="shop-gateway" target="1.8" />
       <module name="shop-member" target="1.8" />
       <module name="shop-order" target="1.8" />
       <module name="shop-product" target="1.8" />
@@ -35,6 +37,7 @@
       <module name="renren-fast" options="-parameters" />
       <module name="renren-generator" options="-parameters" />
       <module name="shop-coupon" options="-parameters" />
+      <module name="shop-gateway" options="-parameters" />
       <module name="shop-member" options="-parameters" />
       <module name="shop-order" options="-parameters" />
       <module name="shop-product" options="-parameters" />
