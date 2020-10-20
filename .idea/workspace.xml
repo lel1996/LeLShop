@@ -2,289 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcba5797-89f2-4026-9a72-9309cc209fd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_starter_alibaba_nacos_config_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_starter_alibaba_nacos_discovery_2_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_api_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_client_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_common_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_spring_spring_context_support_1_0_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_24_1_1_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_52_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_52_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_52_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_52_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_52_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_52_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_52_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_52_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_52_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_52_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_52_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_52_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_0_9_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_prometheus_simpleclient_0_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_1_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gateway_core_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_gateway_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_multipart_parser_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_stream_storage_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-coupon/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-gateway/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/src/main/java/com/lierlin/shop/member/ShopMemberApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/src/main/java/com/lierlin/shop/member/fegin/CouponFeginServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_21.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-coupon/target/classes/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-gateway/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-gateway/shop-gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-gateway/src/main/java/com/lierlin/shop/gateway/ShopGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-gateway/src/test/java/com/lierlin/shop/gateway/ShopGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-gateway/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-gateway/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-gateway/target/classes/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-gateway/target/classes/com/lierlin/shop/gateway/ShopGatewayApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-gateway/target/test-classes/com/lierlin/shop/gateway/ShopGatewayApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/META-INF/shop-member.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/mapper/member/GrowthChangeHistoryDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/mapper/member/IntegrationChangeHistoryDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/mapper/member/MemberCollectSpuDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/mapper/member/MemberCollectSubjectDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/mapper/member/MemberDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/mapper/member/MemberLevelDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/mapper/member/MemberLoginLogDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/mapper/member/MemberReceiveAddressDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/mapper/member/MemberStatisticsInfoDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/growthchangehistory-add-or-update.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/growthchangehistory.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/integrationchangehistory-add-or-update.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/integrationchangehistory.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/member-add-or-update.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/member.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/membercollectspu-add-or-update.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/membercollectspu.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/membercollectsubject-add-or-update.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/membercollectsubject.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/memberlevel-add-or-update.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/memberlevel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/memberloginlog-add-or-update.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/memberloginlog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/memberreceiveaddress-add-or-update.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/memberreceiveaddress.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/memberstatisticsinfo-add-or-update.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/memberstatisticsinfo.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-common/shop-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-common/shop-common.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-common/target/classes/com/lierlin/common/utils/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/shop-common/target/classes/com/lierlin/common/utils/R.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-common/target/classes/com/lierlin/common/xss/SQLFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/shop-common/target/classes/com/lierlin/common/xss/SQLFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/shop-common/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-common/target/shop-common-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/shop-common/target/shop-common-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-coupon/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/shop-coupon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-coupon/shop-coupon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/java/com/lierlin/shop/coupon/ShopCouponApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-coupon/src/main/java/com/lierlin/shop/coupon/ShopCouponApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/java/com/lierlin/shop/coupon/controller/CouponController.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-coupon/src/main/java/com/lierlin/shop/coupon/controller/CouponController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-coupon/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/mapper/product/AttrAttrgroupRelationDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/mapper/product/AttrDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/mapper/product/AttrGroupDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/mapper/product/BrandDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/mapper/product/CategoryBrandRelationDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/mapper/product/CategoryDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/mapper/product/CommentReplayDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/mapper/product/ProductAttrValueDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/mapper/product/SkuImagesDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/mapper/product/SkuInfoDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/mapper/product/SkuSaleAttrValueDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/mapper/product/SpuCommentDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/mapper/product/SpuImagesDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/mapper/product/SpuInfoDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/mapper/product/SpuInfoDescDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/attr-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/attr.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/attrattrgrouprelation-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/attrattrgrouprelation.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/attrgroup-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/attrgroup.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/brand-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/brand.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/category-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/category.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/categorybrandrelation-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/categorybrandrelation.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/commentreplay-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/commentreplay.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/productattrvalue-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/productattrvalue.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/skuimages-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/skuimages.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/skuinfo-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/skuinfo.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/skusaleattrvalue-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/skusaleattrvalue.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/spucomment-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/spucomment.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/spuimages-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/spuimages.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/spuinfo-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/spuinfo.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/spuinfodesc-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/src/main/resources/src/views/modules/product/spuinfodesc.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-coupon/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/coupon/ShopCouponApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/coupon/ShopCouponApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/coupon/controller/CouponController.class" beforeDir="false" afterPath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/coupon/controller/CouponController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/controller/AttrAttrgroupRelationController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/controller/AttrController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/controller/AttrGroupController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/controller/BrandController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/controller/CategoryBrandRelationController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/controller/CategoryController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/controller/CommentReplayController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/controller/ProductAttrValueController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/controller/SkuImagesController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/controller/SkuInfoController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/controller/SkuSaleAttrValueController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/controller/SpuCommentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/controller/SpuImagesController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/controller/SpuInfoController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/controller/SpuInfoDescController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/dao/AttrAttrgroupRelationDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/dao/AttrDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/dao/AttrGroupDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/dao/BrandDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/dao/CategoryBrandRelationDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/dao/CategoryDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/dao/CommentReplayDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/dao/ProductAttrValueDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/dao/SkuImagesDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/dao/SkuInfoDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/dao/SkuSaleAttrValueDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/dao/SpuCommentDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/dao/SpuImagesDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/dao/SpuInfoDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/dao/SpuInfoDescDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/entity/AttrAttrgroupRelationEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/entity/AttrEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/entity/AttrGroupEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/entity/BrandEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/entity/CategoryBrandRelationEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/entity/CategoryEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/entity/CommentReplayEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/entity/ProductAttrValueEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/entity/SkuImagesEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/entity/SkuInfoEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/entity/SkuSaleAttrValueEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/entity/SpuCommentEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/entity/SpuImagesEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/entity/SpuInfoDescEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/entity/SpuInfoEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/AttrAttrgroupRelationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/AttrGroupService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/AttrService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/BrandService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/CategoryBrandRelationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/CategoryService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/CommentReplayService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/ProductAttrValueService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/SkuImagesService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/SkuInfoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/SkuSaleAttrValueService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/SpuCommentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/SpuImagesService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/SpuInfoDescService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/SpuInfoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/impl/AttrAttrgroupRelationServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/impl/AttrGroupServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/impl/AttrServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/impl/BrandServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/impl/CategoryBrandRelationServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/impl/CategoryServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/impl/CommentReplayServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/impl/ProductAttrValueServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/impl/SkuImagesServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/impl/SkuInfoServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/impl/SkuSaleAttrValueServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/impl/SpuCommentServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/impl/SpuImagesServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/impl/SpuInfoDescServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/com/lierlin/shop/product/service/impl/SpuInfoServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/mapper/product/AttrAttrgroupRelationDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/mapper/product/AttrDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/mapper/product/AttrGroupDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/mapper/product/BrandDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/mapper/product/CategoryBrandRelationDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/mapper/product/CategoryDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/mapper/product/CommentReplayDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/mapper/product/ProductAttrValueDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/mapper/product/SkuImagesDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/mapper/product/SkuInfoDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/mapper/product/SkuSaleAttrValueDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/mapper/product/SpuCommentDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/mapper/product/SpuImagesDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/mapper/product/SpuInfoDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/mapper/product/SpuInfoDescDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/attr-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/attr.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/attrattrgrouprelation-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/attrattrgrouprelation.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/attrgroup-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/attrgroup.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/brand-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/brand.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/category-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/category.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/categorybrandrelation-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/categorybrandrelation.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/commentreplay-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/commentreplay.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/productattrvalue-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/productattrvalue.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/skuimages-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/skuimages.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/skuinfo-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/skuinfo.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/skusaleattrvalue-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/skusaleattrvalue.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/spucomment-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/spucomment.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/spuimages-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/spuimages.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/spuinfo-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/spuinfo.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/spuinfodesc-add-or-update.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/classes/src/views/modules/product/spuinfodesc.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-member/shop-member.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-member/shop-member.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-member/src/main/java/com/lierlin/shop/member/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-member/src/main/java/com/lierlin/shop/member/controller/MemberController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-member/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-member/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-member/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-member/target/classes/com/lierlin/shop/member/ShopMemberApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-order/shop-order.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-order/shop-order.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-gateway/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/ShopProductApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/ShopProductApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-ware/shop-ware.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-ware/shop-ware.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/entity/CategoryEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/entity/CategoryEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/service/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/service/impl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-product/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-product/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/shop-product/target/" />
     <ignored path="$PROJECT_DIR$/shop-order/target/" />
@@ -325,26 +95,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-coupon/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/CategoryController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="132">
+              <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-gateway/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/service/impl/CategoryServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+            <state relative-caret-position="-145">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/RenrenApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/renren-fast/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-462" />
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shop-gateway/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -359,22 +149,18 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>updat</find>
+      <find>程序总共运行了</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/renren-fast" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/shop-common/src/main/java/com/lierlin/common/utils/Constant.java" />
-        <option value="$PROJECT_DIR$/shop-product/src/test/java/com/lierlin/shop/product/ShopProductApplicationTests.java" />
-        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/AttrAttrgroupRelationController.java" />
-        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/AttrController.java" />
         <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/AttrGroupController.java" />
         <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/BrandController.java" />
         <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/CategoryBrandRelationController.java" />
-        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/CategoryController.java" />
         <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/CommentReplayController.java" />
         <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/ProductAttrValueController.java" />
         <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/SkuImagesController.java" />
@@ -386,7 +172,6 @@
         <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/SpuInfoDescController.java" />
         <option value="$PROJECT_DIR$/renren-generator/src/main/resources/template/Controller.java.vm" />
         <option value="$PROJECT_DIR$/shop-product/pom.xml" />
-        <option value="$PROJECT_DIR$/shop-product/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/shop-coupon/src/test/java/com/lierlin/shop/coupon/ShopCouponApplicationTests.java" />
         <option value="$PROJECT_DIR$/shop-member/pom.xml" />
         <option value="$PROJECT_DIR$/shop-order/pom.xml" />
@@ -395,7 +180,6 @@
         <option value="$PROJECT_DIR$/renren-generator/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/renren-generator/src/main/resources/generator.properties" />
         <option value="$PROJECT_DIR$/shop-ware/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/ShopProductApplication.java" />
         <option value="$PROJECT_DIR$/shop-coupon/pom.xml" />
         <option value="$PROJECT_DIR$/shop-coupon/src/main/java/com/lierlin/shop/coupon/ShopCouponApplication.java" />
         <option value="$PROJECT_DIR$/shop-member/src/main/java/com/lierlin/shop/member/ShopCouponApplication.java" />
@@ -416,8 +200,15 @@
         <option value="$PROJECT_DIR$/shop-gateway/src/main/resources/bootstrap.properties" />
         <option value="$PROJECT_DIR$/shop-coupon/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/shop-coupon/src/main/resources/bootstrap.properties" />
-        <option value="$PROJECT_DIR$/shop-gateway/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/shop-gateway/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/shop-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/CategoryController.java" />
+        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/service/CategoryService.java" />
+        <option value="$PROJECT_DIR$/shop-product/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/ShopProductApplication.java" />
+        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/entity/CategoryEntity.java" />
+        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/service/impl/CategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml" />
       </list>
     </option>
   </component>
@@ -453,7 +244,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
+    <option name="x" value="-10" />
     <option name="width" value="1940" />
     <option name="height" value="1050" />
   </component>
@@ -461,11 +252,10 @@
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
-      <hideEmptyPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -476,51 +266,25 @@
             <path>
               <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-coupon" type="462c0819:PsiDirectoryNode" />
+              <item name="renren-fast" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-coupon" type="462c0819:PsiDirectoryNode" />
+              <item name="renren-fast" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-coupon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-coupon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-gateway" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="renren-fast" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="renren-fast" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -528,49 +292,16 @@
             <path>
               <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="renren-fast" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="renren" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lierlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lierlin" type="462c0819:PsiDirectoryNode" />
-              <item name="shop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lierlin" type="462c0819:PsiDirectoryNode" />
-              <item name="shop" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
-              <item name="shop-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="renren-fast" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -579,6 +310,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -598,7 +330,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15155616" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -625,7 +357,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ShopCouponApplication">
+  <component name="RunManager" selected="Spring Boot.RenrenApplication">
     <configuration name="ShopCouponApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="shop-coupon" />
       <extension name="coverage">
@@ -672,24 +404,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShopProductApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="shop-product" />
+    <configuration name="RenrenApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="renren-generator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lierlin.shop.product.*" />
+          <option name="PATTERN" value="io.renren.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.lierlin.shop.product" />
-      <option name="MAIN_CLASS_NAME" value="com.lierlin.shop.product.ShopProductApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.renren.RenrenApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RenrenApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="renren-generator" />
+    <configuration name="RenrenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="renren-fast" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="io.renren.*" />
@@ -745,11 +474,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.RenrenApplication" />
         <item itemvalue="JUnit.ShopGatewayApplicationTests.contextLoads" />
         <item itemvalue="Spring Boot.RenrenApplication (1)" />
         <item itemvalue="JUnit.ShopCouponApplicationTests" />
         <item itemvalue="JUnit.ShopProductApplicationTests" />
-        <item itemvalue="JUnit.ShopProductApplicationTests.contextLoads" />
       </list>
     </recent_temporary>
   </component>
@@ -769,7 +498,8 @@
       <workItem from="1602835127620" duration="9415000" />
       <workItem from="1602920511083" duration="14459000" />
       <workItem from="1603008046604" duration="14451000" />
-      <workItem from="1603075507318" duration="13380000" />
+      <workItem from="1603075507318" duration="16436000" />
+      <workItem from="1603175089427" duration="9678000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始结构创建">
       <created>1602681223565</created>
@@ -785,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602929381729</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="项目初始结构创建">
+      <created>1603093721440</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603093721440</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -821,13 +558,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62868000" />
+    <option name="totallyTimeSpent" value="75602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.31032172" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.23525469" />
       <window_info id="Structure" order="1" sideWeight="0.501548" side_tool="true" weight="0.19101876" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -837,8 +573,8 @@
       <window_info id="Web" order="7" sideWeight="0.503876" side_tool="true" weight="0.28686327" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966488" visible="true" weight="0.23654391" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5028329" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966488" visible="true" weight="0.04249292" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4674221" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -865,6 +601,45 @@
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info anchor="right" id="Bean Validation" order="11" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.09115282" />
+      <window_info id="Structure" order="1" sideWeight="0.501548" side_tool="true" weight="0.19101876" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.501548" side_tool="true" weight="0.19101876" />
+      <window_info id="Web" order="7" sideWeight="0.503876" side_tool="true" weight="0.28686327" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966488" visible="true" weight="0.12747875" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.13739377" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3281471" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Sequence" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5033512" side_tool="true" weight="0.56657225" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32719547" />
+      <window_info anchor="bottom" id="Stack trace to UML" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.5028329" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.26407507" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Word Book" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -920,92 +695,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.2.0/mybatis-plus-core-3.2.0-sources.jar!/com/baomidou/mybatisplus/core/executor/MybatisSimpleExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="90" column="22" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renren-generator/src/main/resources/template/Controller.java.vm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-common/src/main/java/com/lierlin/shop/product/dao/AttrDao.java" />
-    <entry file="file://$PROJECT_DIR$/shop-common/src/main/java/com/lierlin/shop/product/controller/AttrAttrgroupRelationController.java" />
-    <entry file="file://$PROJECT_DIR$/shop-coupon/src/main/java/com/lierlin/shop/coupon/dao/CouponDao.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-member/HELP.md" />
-    <entry file="file://$PROJECT_DIR$/shop-coupon/src/main/java/com/lierlin/shop/coupon/service/HomeAdvService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-coupon/src/main/java/com/lierlin/shop/coupon/service/HomeSubjectSpuService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-coupon/src/main/java/com/lierlin/shop/coupon/service/MemberPriceService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-coupon/src/main/java/com/lierlin/shop/coupon/service/CouponHistoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-coupon/src/test/java/com/lierlin/shop/coupon/ShopCouponApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-coupon/src/main/java/com/lierlin/shop/coupon/service/CouponService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-product/src/test/java/com/lierlin/shop/product/ShopProductApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-order/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-ware/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/renren-generator/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -1087,23 +776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-53">
           <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-product/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/ShopProductApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1214,6 +886,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/shop-gateway/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-coupon/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-gateway/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/shop-coupon/src/main/java/com/lierlin/shop/coupon/ShopCouponApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1225,48 +914,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-gateway/src/main/java/com/lierlin/shop/gateway/ShopGatewayApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="66" lean-forward="true" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-gateway/src/main/resources/bootstrap.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop-coupon/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-coupon/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="292">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop-gateway/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        <state relative-caret-position="330">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-gateway/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/shop-product/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-product/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-gateway/src/main/java/com/lierlin/shop/gateway/ShopGatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/ShopProductApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.2.0/mybatis-plus-core-3.2.0-sources.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="174" column="12" selection-start-line="174" selection-start-column="12" selection-end-line="174" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-product/src/main/resources/mapper/product/CategoryDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/dao/CategoryDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/service/CategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/entity/CategoryEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_151/src.zip!/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.9.RELEASE/spring-core-5.2.9.RELEASE-sources.jar!/org/springframework/cglib/proxy/MethodProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="217" selection-start-line="217" selection-end-line="217" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.9.RELEASE/spring-aop-5.2.9.RELEASE-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="693" selection-start-line="693" selection-end-line="693" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.9.RELEASE/spring-web-5.2.9.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="189" selection-start-line="189" selection-end-line="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/CategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/service/impl/CategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-145">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/RenrenApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

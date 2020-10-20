@@ -1,6 +1,7 @@
 package com.lierlin.shop.product.controller;
 
 import java.util.Arrays;
+import java.util.List;
 import java.util.Map;
 
 //import org.apache.shiro.authz.annotation.RequiresPermissions;
@@ -16,6 +17,7 @@ import com.lierlin.shop.product.service.CategoryService;
 import com.lierlin.common.utils.PageUtils;
 import com.lierlin.common.utils.R;
 
+import javax.swing.text.html.parser.Entity;
 
 
 /**
@@ -34,12 +36,12 @@ public class CategoryController {
     /**
      * 列表
      */
-    @RequestMapping("/list")
+    @RequestMapping("/list/tree")
     //@RequiresPermissions("product:category:list")
-    public R list(@RequestParam Map<String, Object> params){
-        PageUtils page = categoryService.queryPage(params);
+    public R list(){
+        List<CategoryEntity> entitylist = categoryService.listWithTree();
 
-        return R.ok().put("page", page);
+        return R.ok().put("dat", entitylist);
     }
 
 

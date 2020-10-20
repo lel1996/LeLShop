@@ -4,6 +4,7 @@ import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.SpringBootVersion;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.core.SpringVersion;
 
 /*
@@ -14,6 +15,7 @@ import org.springframework.core.SpringVersion;
 *
 * */
 @MapperScan("com.lierlin.shop.product.dao")
+@EnableDiscoveryClient
 @SpringBootApplication
 public class ShopProductApplication {
 
