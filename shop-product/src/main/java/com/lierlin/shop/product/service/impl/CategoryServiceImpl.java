@@ -69,6 +69,13 @@ public class CategoryServiceImpl extends ServiceImpl<CategoryDao, CategoryEntity
         System.out.println("程序总共运行了"+aa);
         return level1Menus;
     }
+
+    @Override
+    public void removeMenus(List<Long> asList) {
+        //检查当前菜单是否被其它的引用
+        baseMapper.deleteBatchIds(asList);
+    }
+
     //递归查找所有菜单的子菜单
     private List<CategoryEntity> getChildrens(CategoryEntity root,List<CategoryEntity> all){
         aa=aa+1;

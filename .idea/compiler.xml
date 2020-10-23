@@ -10,6 +10,7 @@
         <module name="shop-common" />
         <module name="shop-ware" />
         <module name="renren-generator" />
+        <module name="shop-third-party" />
         <module name="shop-coupon" />
         <module name="shop-gateway" />
         <module name="shop-member" />
@@ -28,6 +29,7 @@
       <module name="shop-member" target="1.8" />
       <module name="shop-order" target="1.8" />
       <module name="shop-product" target="1.8" />
+      <module name="shop-third-party" target="1.8" />
       <module name="shop-ware" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -41,6 +43,7 @@
       <module name="shop-member" options="-parameters" />
       <module name="shop-order" options="-parameters" />
       <module name="shop-product" options="-parameters" />
+      <module name="shop-third-party" options="-parameters" />
       <module name="shop-ware" options="-parameters" />
     </option>
   </component>

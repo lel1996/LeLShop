@@ -41,7 +41,7 @@ public class CategoryController {
     public R list(){
         List<CategoryEntity> entitylist = categoryService.listWithTree();
 
-        return R.ok().put("dat", entitylist);
+        return R.ok().put("data", entitylist);
     }
 
 
@@ -80,12 +80,13 @@ public class CategoryController {
 
     /**
      * 删除
+     * RequestBody获取请求体，必须是post请求
      */
     @RequestMapping("/delete")
     //@RequiresPermissions("product:category:delete")
     public R delete(@RequestBody Long[] catIds){
-		categoryService.removeByIds(Arrays.asList(catIds));
-
+		//categoryService.removeByIds(Arrays.asList(catIds));
+        categoryService.removeMenus(Arrays.asList(catIds));
         return R.ok();
     }
 

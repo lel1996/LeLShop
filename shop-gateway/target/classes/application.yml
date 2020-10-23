@@ -13,6 +13,19 @@ spring:
           uri: https://www.jd.com
           predicates:
             - Query=url,baidu
+        - id: product_route
+          uri: lb://shop-product
+          predicates:
+            - Path=/api/product/**
+          filters:
+            - RewritePath=/api(?<segment>/?.*),/$\{segment}
+        - id: admin_route
+          uri: lb://renren-fast
+          predicates:
+            - Path=/api/**
+          filters:
+            - RewritePath=/api(?<segment>/?.*),/renren-fast/$\{segment}
+
   application:
     name: shop-gateway
 server:

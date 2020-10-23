@@ -2,54 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcba5797-89f2-4026-9a72-9309cc209fd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/shop-coupon/target/classes/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-gateway/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-gateway/shop-gateway.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-gateway/src/main/java/com/lierlin/shop/gateway/ShopGatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-gateway/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-gateway/src/test/java/com/lierlin/shop/gateway/ShopGatewayApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-gateway/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-gateway/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-gateway/target/classes/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-gateway/target/classes/com/lierlin/shop/gateway/ShopGatewayApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-gateway/target/test-classes/com/lierlin/shop/gateway/ShopGatewayApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/META-INF/shop-member.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/mapper/member/GrowthChangeHistoryDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/mapper/member/IntegrationChangeHistoryDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/mapper/member/MemberCollectSpuDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/mapper/member/MemberCollectSubjectDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/mapper/member/MemberDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/mapper/member/MemberLevelDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/mapper/member/MemberLoginLogDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/mapper/member/MemberReceiveAddressDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/mapper/member/MemberStatisticsInfoDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/growthchangehistory-add-or-update.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/growthchangehistory.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/integrationchangehistory-add-or-update.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/integrationchangehistory.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/member-add-or-update.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/member.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/membercollectspu-add-or-update.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/membercollectspu.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/membercollectsubject-add-or-update.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/membercollectsubject.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/memberlevel-add-or-update.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/memberlevel.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/memberloginlog-add-or-update.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/memberloginlog.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/memberreceiveaddress-add-or-update.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/memberreceiveaddress.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/memberstatisticsinfo-add-or-update.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-member/target/classes/src/views/modules/member/memberstatisticsinfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-gateway/src/main/java/com/lierlin/shop/gateway/config/LierlinCorsConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/exception/ShopExceptionControllerAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/renren-fast" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/RenrenApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/RenrenApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/ShopProductApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/ShopProductApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-gateway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-gateway/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/CategoryController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/entity/CategoryEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/entity/CategoryEntity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/service/CategoryService.java" afterDir="false" />
@@ -66,6 +32,7 @@
     <ignored path="$PROJECT_DIR$/renren-generator/target/" />
     <ignored path="$PROJECT_DIR$/shop-common/target/" />
     <ignored path="$PROJECT_DIR$/shop-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/shop-third-party/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,17 +64,63 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/CategoryController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+            <state relative-caret-position="282">
+              <caret line="63" column="18" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/service/impl/CategoryServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/exception/ShopExceptionControllerAdvice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-145">
-              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="215">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shop-third-party/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-product/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/ShopProductApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="25" column="34" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-gateway/src/main/java/com/lierlin/shop/gateway/ShopGatewayApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#632#633#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,8 +128,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/RenrenApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="242">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/AttrAttrgroupRelationController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/renren-fast/src/main/resources/bootstrap.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="57" selection-start-line="1" selection-start-column="57" selection-end-line="1" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -124,15 +155,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/renren-fast/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-462" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+            <state relative-caret-position="220">
+              <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -143,6 +167,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -150,24 +175,20 @@
     <findStrings>
       <find>updat</find>
       <find>程序总共运行了</find>
+      <find>8080</find>
+      <find>cwan</find>
+      <find>809</find>
+      <find>808</find>
+      <find>update</find>
+      <find>update pms</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/renren-fast" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/AttrGroupController.java" />
-        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/BrandController.java" />
-        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/CategoryBrandRelationController.java" />
-        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/CommentReplayController.java" />
-        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/ProductAttrValueController.java" />
-        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/SkuImagesController.java" />
-        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/SkuInfoController.java" />
-        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/SkuSaleAttrValueController.java" />
-        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/SpuCommentController.java" />
-        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/SpuImagesController.java" />
         <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/SpuInfoController.java" />
         <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/SpuInfoDescController.java" />
         <option value="$PROJECT_DIR$/renren-generator/src/main/resources/template/Controller.java.vm" />
@@ -194,21 +215,31 @@
         <option value="$PROJECT_DIR$/shop-coupon/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/shop-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/shop-gateway/src/main/java/com/lierlin/shop/gateway/ShopGatewayApplication.java" />
         <option value="$PROJECT_DIR$/shop-gateway/target/classes/application.properties" />
         <option value="$PROJECT_DIR$/shop-gateway/target/classes/application.yml" />
         <option value="$PROJECT_DIR$/shop-gateway/src/main/resources/bootstrap.properties" />
         <option value="$PROJECT_DIR$/shop-coupon/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/shop-coupon/src/main/resources/bootstrap.properties" />
         <option value="$PROJECT_DIR$/shop-gateway/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/shop-gateway/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/CategoryController.java" />
-        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/service/CategoryService.java" />
-        <option value="$PROJECT_DIR$/shop-product/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/ShopProductApplication.java" />
-        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/entity/CategoryEntity.java" />
-        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/service/impl/CategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/renren-fast/pom.xml" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/RenrenApplication.java" />
         <option value="$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/shop-gateway/src/main/java/com/lierlin/shop/gateway/config/GulimallCorsConfiguration.java" />
+        <option value="$PROJECT_DIR$/shop-gateway/src/main/java/com/lierlin/shop/gateway/config/lierlinCorsConfiguration.java" />
+        <option value="$PROJECT_DIR$/shop-gateway/src/main/java/com/lierlin/shop/gateway/config/LierlinCorsConfiguration.java" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/config/CorsConfig.java" />
+        <option value="$PROJECT_DIR$/shop-gateway/src/main/java/com/lierlin/shop/gateway/ShopGatewayApplication.java" />
+        <option value="$PROJECT_DIR$/shop-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/shop-product/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/service/CategoryService.java" />
+        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/service/impl/CategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/entity/CategoryEntity.java" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/CategoryController.java" />
+        <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/exception/ShopExceptionControllerAdvice.java" />
+        <option value="$PROJECT_DIR$/shop-third-party/pom.xml" />
       </list>
     </option>
   </component>
@@ -229,17 +260,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="shop-gateway" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="shop-gateway" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -252,10 +273,11 @@
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
-      <hideEmptyPackages ProjectPane="true" />
+      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,52 +288,17 @@
             <path>
               <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
-              <item name="renren-fast" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-third-party" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
-              <item name="renren-fast" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
-              <item name="renren-fast" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
-              <item name="renren-fast" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
-              <item name="renren-fast" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="renren" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
-              <item name="renren-fast" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -324,7 +311,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/shop-gateway/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/renren-fast/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -338,11 +325,11 @@
       <recent name="com.lierlin.common.utils" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\study\LeLShop\renren-fast\src\main\resources" />
+      <recent name="C:\study\LeLShop\shop-gateway\src\main\java\com\lierlin\shop\gateway\config" />
       <recent name="C:\study\LeLShop\shop-gateway\src\main\resources" />
       <recent name="C:\study\LeLShop\shop-coupon\src\main\resources" />
       <recent name="C:\study\LeLShop" />
-      <recent name="C:\study\LeLShop\shop-ware\src\main\resources" />
-      <recent name="C:\study\LeLShop\shop-order" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -465,6 +452,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShopThirdPartyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-third-party" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lierlin.shop.third.party.ShopThirdPartyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ShopWareApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="shop-ware" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lierlin.shop.ware.ShopWareApplication" />
@@ -499,7 +493,11 @@
       <workItem from="1602920511083" duration="14459000" />
       <workItem from="1603008046604" duration="14451000" />
       <workItem from="1603075507318" duration="16436000" />
-      <workItem from="1603175089427" duration="9678000" />
+      <workItem from="1603175089427" duration="16406000" />
+      <workItem from="1603241565560" duration="11500000" />
+      <workItem from="1603280210317" duration="1445000" />
+      <workItem from="1603330193316" duration="4161000" />
+      <workItem from="1603413739539" duration="5708000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始结构创建">
       <created>1602681223565</created>
@@ -522,7 +520,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603093721440</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="项目初始结构创建">
+      <created>1603188118309</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603188118309</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -558,12 +563,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75602000" />
+    <option name="totallyTimeSpent" value="105144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.23525469" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.29490617" />
       <window_info id="Structure" order="1" sideWeight="0.501548" side_tool="true" weight="0.19101876" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -573,7 +579,7 @@
       <window_info id="Web" order="7" sideWeight="0.503876" side_tool="true" weight="0.28686327" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966488" visible="true" weight="0.04249292" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4966488" visible="true" weight="0.28328612" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4674221" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -602,7 +608,7 @@
       <window_info anchor="right" id="Bean Validation" order="11" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.09115282" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.23525469" />
       <window_info id="Structure" order="1" sideWeight="0.501548" side_tool="true" weight="0.19101876" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -612,8 +618,8 @@
       <window_info id="Web" order="7" sideWeight="0.503876" side_tool="true" weight="0.28686327" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966488" visible="true" weight="0.12747875" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.13739377" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4966488" visible="true" weight="0.7790368" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4674221" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -630,7 +636,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.26407507" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.26407507" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="leetcode" order="5" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
@@ -695,80 +701,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/renren-generator/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renren-generator/src/main/resources/generator.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renren-generator/src/main/java/io/renren/RenrenApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-product/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-order/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/微服务/docs/代码/前端/es6/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/entity/AttrAttrgroupRelationEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-coupon/src/main/java/com/lierlin/shop/coupon/controller/CouponHistoryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-coupon/src/main/java/com/lierlin/shop/coupon/controller/CouponSpuCategoryRelationController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop-coupon/src/main/java/com/lierlin/shop/coupon/controller/CouponSpuRelationController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/AttrAttrgroupRelationController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -921,43 +857,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-gateway/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop-product/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-product/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-gateway/src/main/java/com/lierlin/shop/gateway/ShopGatewayApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/ShopProductApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.2.0/mybatis-plus-core-3.2.0-sources.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -977,20 +878,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/service/CategoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/entity/CategoryEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="42" column="17" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1022,36 +909,163 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/CategoryController.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.2.4.RELEASE/spring-boot-2.2.4.RELEASE-sources.jar!/org/springframework/boot/context/config/ConfigFileApplicationListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        <state relative-caret-position="42">
+          <caret line="544" column="22" selection-start-line="544" selection-start-column="22" selection-end-line="544" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/aspect/SysLogAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/config/CorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-gateway/src/main/java/com/lierlin/shop/gateway/config/LierlinCorsConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/service/CategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/entity/CategoryEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-annotation/3.2.0/mybatis-plus-annotation-3.2.0-sources.jar!/com/baomidou/mybatisplus/annotation/TableLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="71" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/service/impl/CategoryServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-145">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="1276">
+          <caret line="74" column="24" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/RenrenApplication.java">
+    <entry file="file://$PROJECT_DIR$/shop-product/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="792">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-gateway/src/main/java/com/lierlin/shop/gateway/ShopGatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/ShopProductApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/renren-fast/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-462" />
+        <state relative-caret-position="220">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml">
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/resources/bootstrap.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        <state relative-caret-position="22">
+          <caret line="1" column="57" selection-start-line="1" selection-start-column="57" selection-end-line="1" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/RenrenApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/AttrAttrgroupRelationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/CategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="63" column="18" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/exception/ShopExceptionControllerAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-third-party/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
         </state>
       </provider>
     </entry>
