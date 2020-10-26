@@ -7,3 +7,10 @@ spring:
     nacos:
       discovery:
         server-addr: 47.102.205.163:8848
+
+
+    alicloud:
+      access-key: LTAI4FzjU9ef7PyJSvGfZeey
+      secret-key: BnOfRD7yyWK53ismnuccvtDEVe1HUv
+      oss:
+        endpoint: oss-cn-beijing.aliyuncs.com

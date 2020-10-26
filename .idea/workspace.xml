@@ -2,50 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcba5797-89f2-4026-9a72-9309cc209fd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_alicloud_context_1_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_alicloud_context_2_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_alicloud_oss_2_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_core_3_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_ecs_4_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_ram_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_sts_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_oss_aliyun_sdk_oss_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20170516.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-third-party/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-third-party/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-third-party/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-third-party/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-third-party/target/classes/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-third-party/target/classes/com/lierlin/shop/third/party/ShopThirdPartyApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-third-party/target/test-classes/com/lierlin/shop/third/party/ShopThirdPartyApplicationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_starter_alicloud_oss_unknown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_starter_alicloud_oss_2_2_0_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-common/shop-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-common/shop-common.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-coupon/shop-coupon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-coupon/shop-coupon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-gateway/shop-gateway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-gateway/shop-gateway.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-member/shop-member.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-member/shop-member.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-order/shop-order.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-order/shop-order.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-product/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-product/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/BrandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/BrandController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop-product/src/test/java/com/lierlin/shop/product/ShopProductApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-product/src/test/java/com/lierlin/shop/product/ShopProductApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-third-party/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-third-party/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-third-party/shop-third-party.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-third-party/shop-third-party.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-third-party/src/main/java/com/lierlin/shop/third/party/ShopThirdPartyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-third-party/src/main/java/com/lierlin/shop/third/party/ShopThirdPartyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-third-party/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-third-party/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop-third-party/src/test/java/com/lierlin/shop/third/party/ShopThirdPartyApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-third-party/src/test/java/com/lierlin/shop/third/party/ShopThirdPartyApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-ware/shop-ware.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-ware/shop-ware.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/shop-product/target/" />
     <ignored path="$PROJECT_DIR$/shop-order/target/" />
@@ -99,11 +59,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop-third-party/src/test/java/com/lierlin/shop/third/party/ShopThirdPartyApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+            <state relative-caret-position="66">
+              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shop-product/src/test/java/com/lierlin/shop/product/ShopProductApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="31" column="61" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-third-party/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -181,13 +162,13 @@
         <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/exception/ShopExceptionControllerAdvice.java" />
         <option value="$PROJECT_DIR$/shop-common/pom.xml" />
         <option value="$PROJECT_DIR$/shop-product/src/main/java/com/lierlin/shop/product/controller/BrandController.java" />
-        <option value="$PROJECT_DIR$/shop-product/src/test/java/com/lierlin/shop/product/ShopProductApplicationTests.java" />
         <option value="$PROJECT_DIR$/shop-product/pom.xml" />
         <option value="$PROJECT_DIR$/shop-third-party/src/main/resources/bootstrap.properties" />
-        <option value="$PROJECT_DIR$/shop-third-party/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/shop-third-party/src/main/java/com/lierlin/shop/third/party/ShopThirdPartyApplication.java" />
         <option value="$PROJECT_DIR$/shop-third-party/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-third-party/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/shop-third-party/src/test/java/com/lierlin/shop/third/party/ShopThirdPartyApplicationTests.java" />
+        <option value="$PROJECT_DIR$/shop-product/src/test/java/com/lierlin/shop/product/ShopProductApplicationTests.java" />
       </list>
     </option>
   </component>
@@ -247,6 +228,74 @@
               <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
               <item name="shop-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-product" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-product" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-product" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-product" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-product" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-product" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lierlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-product" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lierlin" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeLShop" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-product" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lierlin" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeLShop" type="b2602c69:ProjectViewProjectNode" />
@@ -574,7 +623,7 @@
       <workItem from="1603280210317" duration="1445000" />
       <workItem from="1603330193316" duration="4161000" />
       <workItem from="1603413739539" duration="7938000" />
-      <workItem from="1603676597205" duration="10010000" />
+      <workItem from="1603676597205" duration="10780000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始结构创建">
       <created>1602681223565</created>
@@ -611,13 +660,17 @@
       <option name="project" value="LOCAL" />
       <updated>1603438388336</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1">
+      <created>1603714322008</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603714322009</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ShopProductApplicationTests_testLoad - 2020.10.26 at 10h 18m 56s.xml">
-      <configuration name="ShopProductApplicationTests.testLoad" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ShopProductApplicationTests_testLoad - 2020.10.26 at 10h 20m 57s.xml">
       <configuration name="ShopProductApplicationTests.testLoad" configurationId="JUnit" />
     </history-entry>
@@ -645,14 +698,18 @@
     <history-entry file="ShopThirdPartyApplicationTests - 2020.10.26 at 20h 04m 11s.xml">
       <configuration name="ShopThirdPartyApplicationTests" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ShopThirdPartyApplicationTests - 2020.10.26 at 20h 21m 25s.xml">
+      <configuration name="ShopThirdPartyApplicationTests" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117384000" />
+    <option name="totallyTimeSpent" value="118154000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.2989276" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.2989276" />
       <window_info id="Structure" order="1" sideWeight="0.501548" side_tool="true" weight="0.19101876" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -662,7 +719,7 @@
       <window_info id="Web" order="7" sideWeight="0.503876" side_tool="true" weight="0.28686327" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966488" visible="true" weight="0.40084985" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4966488" visible="true" weight="0.40084985" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4674221" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -777,7 +834,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="项目初始结构创建" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目初始结构创建" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1079,13 +1137,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-product/src/test/java/com/lierlin/shop/product/ShopProductApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="35" column="88" selection-start-line="35" selection-start-column="88" selection-end-line="35" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop-product/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
@@ -1114,24 +1165,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-third-party/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-third-party/src/main/java/com/lierlin/shop/third/party/ShopThirdPartyApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/aliyun/oss/aliyun-sdk-oss/3.1.0/aliyun-sdk-oss-3.1.0.jar!/com/aliyun/oss/OSS.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -1146,10 +1179,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/shop-third-party/src/main/java/com/lierlin/shop/third/party/ShopThirdPartyApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-third-party/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/shop-third-party/src/test/java/com/lierlin/shop/third/party/ShopThirdPartyApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        <state relative-caret-position="66">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-product/src/test/java/com/lierlin/shop/product/ShopProductApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="31" column="61" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

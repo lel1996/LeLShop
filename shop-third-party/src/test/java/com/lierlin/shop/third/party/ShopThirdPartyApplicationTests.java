@@ -13,7 +13,7 @@ import java.io.InputStream;
 @SpringBootTest
 class ShopThirdPartyApplicationTests {
     @Autowired
-    OSS ossClient;
+    OSSClient ossClient;
     @Test
     void contextLoads() throws FileNotFoundException {
         InputStream inputStream = new FileInputStream("C:\\Users\\lierlin\\Desktop\\lierlin.jpg");
