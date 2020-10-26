@@ -1,0 +1,9 @@
+server:
+  port: 8096
+spring:
+  application:
+    name: shop-third-party
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 47.102.205.163:8848
